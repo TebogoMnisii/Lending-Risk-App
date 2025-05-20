@@ -1,0 +1,3 @@
+2025-05-20 01:01:16,752:ERROR:Error: 'numpy.ndarray' object has no attribute 'predict'
+2025-05-20 01:09:56,797:ERROR:Error: 'numpy.ndarray' object has no attribute 'predict'
+2025-05-20 01:10:09,665:ERROR:Error: 'numpy.ndarray' object has no attribute 'predict'
