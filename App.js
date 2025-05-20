@@ -46,7 +46,7 @@ export default function App() {
     setResult(null);
 
     try {
-      const response = await fetch("https://your-api.onrender.com/predict", {
+      const response = await fetch("https://loan-risk-api.onrender.com/predict", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),
